@@ -1,0 +1,77 @@
+# Front End Developer Intern – Intermediate Skills
+
+## Overview
+This repository contains the **intermediate-level frontend development tasks** completed during the internship.  
+The tasks focus on building **real-world React applications**, working with **APIs**, improving **state management**, and enhancing **UI/UX, performance, and accessibility**.
+
+---
+
+## Tasks Covered
+
+### 1. React Router & Multi-Page Applications
+- Implemented multi-page navigation using React Router
+- Built reusable layout and page components
+- Managed routes and dynamic content rendering
+
+---
+
+### 2. REST APIs & Data Handling
+- Fetched data from APIs using Axios / Fetch
+- Implemented GET and POST requests
+- Handled loading states and error scenarios
+
+---
+
+### 3. State Management
+- Managed global state using React Context API
+- Implemented localStorage for data persistence
+- Built task management features with categories
+
+---
+
+### 4. Advanced UI & Interactions
+- Created responsive layouts using Tailwind CSS
+- Added search, filter, and dynamic UI updates
+- Implemented drag-and-drop and micro-interactions
+
+---
+
+### 5. Accessibility & Testing
+- Improved accessibility using semantic HTML and ARIA roles
+- Implemented keyboard navigation
+- Wrote basic unit tests using Jest
+
+---
+
+### 6. Project: VillageConnect
+- Built a community-based web application
+- Implemented services listing and details pages
+- Developed forum functionality with posts and search
+- Improved responsiveness and usability
+
+---
+
+## Technologies Used
+- React
+- React Router
+- JavaScript (ES6+)
+- Tailwind CSS
+- Axios / Fetch API
+- Context API
+- Jest
+- Git & GitHub
+
+---
+
+## Learning Outcomes
+- Improved understanding of scalable React architecture
+- Hands-on experience with API integration
+- Enhanced skills in state management and UI optimization
+- Practical exposure to accessibility and testing
+- Experience building real-world frontend applications
+
+---
+
+## Notes
+All tasks are organized in folders representing different intermediate milestones.  
+This repository reflects continuous learning and practical implementation during the internship.
